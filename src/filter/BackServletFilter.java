@@ -41,12 +41,13 @@ public class BackServletFilter implements Filter {
             response.sendRedirect("/admin/");
             return;
         }
-        //配置超级管理员权限
+        //配置超级管理员权限的方法
         String[] superAdminPage = new String[]{
                 "delete",
                 "addUpdate",
                 "updatePropertyValue",
         };
+        // 访问admin目录下
         if(uri.startsWith("/admin/")){
             String servletName = StringUtils.substringBetween(uri,"/admin","_");
             servletName = servletName == null?"category":servletName;
