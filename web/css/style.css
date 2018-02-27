@@ -14,7 +14,7 @@ ul,li{
     list-style: none;
 }
 .redColor{
-    color:#FF0036 !important;
+    color:#C40000 !important;
 }
 .clear{
     clear: both;
@@ -33,10 +33,10 @@ nav.top .top-bar{
 }
 nav.top a,nav.top span{
     color : #444;
-    margin:  0 10px 0 5px;
+    margin:  0 10px;
 }
 nav.top a:hover{
-    color:#FF0036;
+    color:#C40000;
     text-decoration: none;
 }
 @media screen and (min-width:1240px){
@@ -248,7 +248,7 @@ section.head-bar .r-menu img{
 }
 section.carousel{
     width: 100%;
-    background: #E8E8E8;
+    /*background: #E8E8E8;*/
     border-top: 1.5px solid #FF0036;
     height:500px;
 
@@ -256,16 +256,16 @@ section.carousel{
 section.carousel .carousel-of-product{
     width:930px;
     margin: 0 auto;
-    height:500px;
+    height:460px;
     position: relative;
 }
 section.carousel img.carousel-image{
-    height:500px;
+    height:460px;
 }
 
 section.carousel .m-menu{
     width:200px;
-    height:500px;
+    height:460px;
     position: absolute;
     top:0;
     left:0;
@@ -366,7 +366,7 @@ main.index .products .item img{
 }
 main.index .products .item-title{
     width:135px;
-    height:40px;
+    height:38px;
     font-size: 14px;
     color:#333;
     overflow: hidden;
@@ -576,7 +576,7 @@ main.search .item .item-price{
 main.search .item .item-title{
     overflow: hidden;
     width:210px;
-    height:20px;
+    height:34px;
 }
 
 main.search .item .item-shop a{
@@ -721,6 +721,7 @@ section.banner{
 section.banner img{
     margin: 0 auto;
     display: block;
+    width: 100%;
 }
 
 section.property{

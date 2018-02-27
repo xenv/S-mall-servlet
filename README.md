@@ -1,14 +1,15 @@
-# 小小商城系统
+# 小小商城系统  - Servlet版
 
-练手JavaWEB项目，本版本为Servlet版（实现了SSM版85%的功能），基于原生JDBC数据库连接，通过手动实现Filter进行URL和Servlet之间的映射
+练手JavaWEB项目，本版本为 Servlet 版（实现了SSM版85%的功能），基于原生JDBC数据库连接，通过手动实现Filter进行URL和Servlet之间的映射
 
 ---------------------------
 
-演示（SSM版）：[搭建中][1]  
+**演示**(SSM版)：[http://small.ડ.com/][1]  
+可自行注册账号，或使用后台查看权限账号 demo 密码 demo （后台入口登陆后显示）  
+   
 兄弟项目：  
 [SSH版（实现了SSM版95%功能）][2]  
 [SSM版（完整版）][3]  
-
 
 ----------------------------
 
@@ -40,6 +41,6 @@
   5. JDK >= 1.8、数据库 Mysql
 
 
-  [1]: http://
+  [1]: http://small.ડ.com
   [2]: https://github.com/xenv/S-mall-ssh
   [3]: https://github.com/xenv/S-mall-ssm
