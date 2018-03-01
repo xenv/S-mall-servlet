@@ -20,6 +20,9 @@
  * 本项目后端使用原生 Servlet + JDBC + Filter 实现，轻量化构建。
  * 实现了一个 BaseFilter 做用户鉴权 和 调用 Servlet 的方法（根据url） 
   
+讲解文章：  
+  * [小小商城项目概述 —— 需求分析、数据表设计、原型设计、多层结构设计、项目规划][4]
+  * [Servlet开发 | 利用 Filter + 反射 处理 URL， 精简 servlet-mapping][5]
 
 功能： 
 
@@ -44,3 +47,5 @@
   [1]: http://small.ડ.com
   [2]: https://github.com/xenv/S-mall-ssh
   [3]: https://github.com/xenv/S-mall-ssm
+  [4]: https://www.cnblogs.com/bukong/p/small-start.html
+  [5]: https://www.cnblogs.com/bukong/p/servlet-filter-mapping.html
