@@ -47,5 +47,5 @@
   [1]: http://small.ડ.com
   [2]: https://github.com/xenv/S-mall-ssh
   [3]: https://github.com/xenv/S-mall-ssm
-  [4]: https://www.cnblogs.com/bukong/p/small-start.html
-  [5]: https://www.cnblogs.com/bukong/p/servlet-filter-mapping.html
+  [4]: https://yuque.com/page/luan.ma/small-start
+  [5]: https://yuque.com/page/luan.ma/servlet-filter-mapping
