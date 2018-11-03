@@ -4,7 +4,7 @@
 
 ---------------------------
 
-**演示**(SSM版)：[http://small.ડ.com/][1]  
+**演示**(SSM版)：[https://small.ડ.com/][1]  
 可自行注册账号，或使用后台查看权限账号 demo 密码 demo （后台入口登陆后显示）  
    
 兄弟项目：  
@@ -44,7 +44,7 @@
   5. JDK >= 1.8、数据库 Mysql
 
 
-  [1]: http://small.ડ.com
+  [1]: https://small.ડ.com
   [2]: https://github.com/xenv/S-mall-ssh
   [3]: https://github.com/xenv/S-mall-ssm
   [4]: https://yuque.com/page/luan.ma/small-start
