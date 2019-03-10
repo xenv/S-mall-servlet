@@ -38,7 +38,7 @@ public class BackServletFilter implements Filter {
 
         //如果以/admin为前缀则是后台管理
         if(uri.equals("/admin")){
-            response.sendRedirect("/admin/");
+            response.sendRedirect(contextPath+ "/admin/");
             return;
         }
         //配置超级管理员权限的方法
